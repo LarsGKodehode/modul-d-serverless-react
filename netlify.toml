@@ -1,0 +1,5 @@
+
+
+[[edge_functions]]
+function = "get-posts"
+path = "/api/v1"
