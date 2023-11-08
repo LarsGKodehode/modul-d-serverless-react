@@ -7,12 +7,13 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "bradlc.vscode-tailwindcss",
-        "heybourn.headwind",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "shailen.netlify"
-      ]
+		"bradlc.vscode-tailwindcss",
+		"heybourn.headwind",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"shailen.netlify",
+		"denoland.vscode-deno"
+	]
     }
   },
   "features": {
